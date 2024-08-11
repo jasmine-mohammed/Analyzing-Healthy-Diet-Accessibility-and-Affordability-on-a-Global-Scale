@@ -11,7 +11,7 @@ We aimed to identify which countries have experienced the highest and lowest lev
   
 ## Tools
 - Python for Data Cleaning, Data Analysis, and Data Visualisation
-- JupyterLab
+- Jupyter Notebook
 - Google Docs
 
 ## Data Set
